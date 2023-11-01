@@ -1,0 +1,14 @@
+#main_content{
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    height: 100vh; /* Esto asegura que el cuerpo ocupe toda la altura de la ventana */
+    margin: 0;
+}
+
+
+#div_form{
+
+    width:50%;
+    margin : 5rem;
+}
